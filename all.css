@@ -11797,8 +11797,8 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .link-style{
 	width:32.8%;
 	font-weight:normal;
-	font-size:15px;
-	line-height:10px;
+	font-size:20px;
+	line-height:20px;
 }
 .h2-style{
 	width:100%;
@@ -11876,6 +11876,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .img-30-style{
 	width:789px;
+}
+.h6-style{
+	font-size:18px;
 }
 
 /* = Colour
@@ -12051,6 +12054,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	}
 	.h1-style{
 		width:95.19%;
+	}
+	.link-style{
+		font-size:15px;
 	}
 	
 	/* Mobile Text Margin Offsets */
